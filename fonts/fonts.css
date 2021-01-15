@@ -1,0 +1,12 @@
+@font-face {
+    font-family: Inter;
+    src: url('../fonts/Inter-Regular.ttf');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/PlayfairDisplay-Regular.ttf');
+    font-style: normal;
+    font-weight: 400;
+}
