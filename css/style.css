@@ -156,7 +156,7 @@ body {
 }
 
 .first_screen .first_screen__inner .text .title .title_h1 {
-  padding: 120px 80px 0 0;
+  padding: 60px 80px 0 0;
   font-size: 100px;
   text-transform: uppercase;
   float: right;
@@ -182,7 +182,7 @@ body {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  margin: 50px 0 50px;
+  margin: 0 0 50px;
 }
 
 .about_wrapper .about {
